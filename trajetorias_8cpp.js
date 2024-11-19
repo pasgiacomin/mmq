@@ -1,0 +1,27 @@
+var trajetorias_8cpp =
+[
+    [ "adaptacao_indice_lat_long", "trajetorias_8cpp.html#ac2f07b20a816fb42236673d5f4bc17e4", null ],
+    [ "calc_novo_ponto_reta", "trajetorias_8cpp.html#abecc26b783a82295b403996e30e98720", null ],
+    [ "calcula_avanco_longitudinal", "trajetorias_8cpp.html#a00ad72ff7d5cfe5ed18860b32e5022d1", null ],
+    [ "calcula_avanco_pos_longitudinal", "trajetorias_8cpp.html#a5b0473277e2de3868e0f8661566a575d", null ],
+    [ "calcula_avanco_regulador", "trajetorias_8cpp.html#abbc05fafd077cc49002261b5215c0175", null ],
+    [ "calcula_avanco_regulador_flotla", "trajetorias_8cpp.html#a8625ba20b028088a92a1aa39785465d8", null ],
+    [ "calcula_direcao", "trajetorias_8cpp.html#abc8869dc3637f4ec4a3223271923b17d", null ],
+    [ "calcula_lado_aeornave", "trajetorias_8cpp.html#a8a34ef84d6b55ef0cb067387f3154005", null ],
+    [ "distancia_total", "trajetorias_8cpp.html#a8d85a1d119355f8d77d3d20d60cc7f20", null ],
+    [ "distancia_total_primeira_aeronave", "trajetorias_8cpp.html#a4f206294e775985420f5973977164d81", null ],
+    [ "distancia_total_ultima_aeronave", "trajetorias_8cpp.html#a4fcf088fb338bdaae15acf2566f3714e", null ],
+    [ "maior_distancia_saida_circular", "trajetorias_8cpp.html#abcff75ac8e5de1d45fd893e1b63efa02", null ],
+    [ "nao_chamar_trajetorias", "trajetorias_8cpp.html#a5ac6a52df3ecbc967fdcac847a675ab3", null ],
+    [ "rotacione", "trajetorias_8cpp.html#aaf75468db0a28ddb58de725b9ceec4be", null ],
+    [ "trajetoria_em_frente_3D", "trajetorias_8cpp.html#a3d586a3bc3cd6fce90e5cd88b613f640", null ],
+    [ "trajetoria_em_frente_3D_preditiva", "trajetorias_8cpp.html#ac85d369b7820dd641061926731550bbf", null ],
+    [ "trajetoria_meia_curva_3D", "trajetorias_8cpp.html#aebc4618b857635003db84bba5ac9aa93", null ],
+    [ "trajetoria_meia_curva_3D_preditiva", "trajetorias_8cpp.html#ac48e176c3a032690640d5494b51c0da8", null ],
+    [ "ca1", "trajetorias_8cpp.html#a34fc91ee2cff8d4ca7cdceddeb237ba7", null ],
+    [ "ca2", "trajetorias_8cpp.html#ad6850a4cea07575e3c2136265ab39504", null ],
+    [ "dsd", "trajetorias_8cpp.html#a0115cc43188234bedef4ead18f3a6d9b", null ],
+    [ "dse", "trajetorias_8cpp.html#a943ee09c9af4f51c5291807dd376e6b6", null ],
+    [ "N_AERONAVES", "trajetorias_8cpp.html#a66a602a08a17bc80db0013607b07292c", null ],
+    [ "obstaculos", "trajetorias_8cpp.html#a4422c01ee92a47c077144e05d2486afc", null ]
+];
