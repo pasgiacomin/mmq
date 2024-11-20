@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['dados_5fdo_5fcruzamento_26',['dados_do_cruzamento',['../classMissionSolver.html#a692b57a75908047d23457642ed6b938c',1,'MissionSolver']]],
+  ['de_5fcircular_5fpara_5flongitudinal_27',['de_circular_para_longitudinal',['../classMissionCircular.html#a320ac980688c895f859e4746ecd0f402',1,'MissionCircular']]],
+  ['de_5fcircular_5fpara_5flongitudinal_5fpreditivo_28',['de_circular_para_longitudinal_preditivo',['../classMissionCircular.html#abf1dfe331aadbd72365ffb31fef9bdbe',1,'MissionCircular']]],
+  ['de_5flatitudinal_5fpara_5flongitudinal_29',['de_latitudinal_para_longitudinal',['../classMissionLatitudinal.html#a0bc63d1fcdc7b3667e6479e354390aaf',1,'MissionLatitudinal']]],
+  ['de_5flatitudinal_5fpara_5flongitudinal_5fpreditivo_30',['de_latitudinal_para_longitudinal_preditivo',['../classMissionLatitudinal.html#af8443d4991b3967f07fe454270be4b99',1,'MissionLatitudinal']]],
+  ['de_5flongitudinal_5fpara_5fcircular_31',['de_longitudinal_para_circular',['../classMissionCircular.html#a35a96b1d877a3ecd3ae37c53c3664f82',1,'MissionCircular']]],
+  ['de_5flongitudinal_5fpara_5fcircular_5fpreditivo_32',['de_longitudinal_para_circular_preditivo',['../classMissionCircular.html#a38fa2c1a386fd7414fcc228a14a3252b',1,'MissionCircular']]],
+  ['de_5flongitudinal_5fpara_5flatitudinal_33',['de_longitudinal_para_latitudinal',['../classMissionLatitudinal.html#a34dd5b064b77152f8dddf68c2e7ebcf6',1,'MissionLatitudinal']]],
+  ['de_5flongitudinal_5fpara_5flatitudinal_5fpreditivo_34',['de_longitudinal_para_latitudinal_preditivo',['../classMissionLatitudinal.html#abcd3d121caa410cd0eac049610dd173c',1,'MissionLatitudinal']]],
+  ['delta_35',['delta',['../classMissionLatitudinal.html#a2eea16223b996654c03360fa3913fd13',1,'MissionLatitudinal::delta()'],['../classMissionLongitudinal.html#a8a724d3d06d0eaf458f0e8655681c44e',1,'MissionLongitudinal::delta()'],['../classMissionSolver.html#af04d814241590c41620cdfd30cfd65f5',1,'MissionSolver::delta()']]],
+  ['dir_36',['dir',['../structvisitacao.html#afd8a5fc8f347ddd8aac62aea1b056604',1,'visitacao']]],
+  ['direcao_37',['direcao',['../structdirecao.html',1,'']]],
+  ['direcao_5ft_38',['direcao_t',['../trajetorias_8h.html#a76a91165e2c3bd798415bf5c752fd397',1,'trajetorias.h']]],
+  ['direita_39',['DIREITA',['../trajetorias_8h.html#a76a91165e2c3bd798415bf5c752fd397a610b34ff160b74eb5e3b89aa35ea1671',1,'trajetorias.h']]],
+  ['dist_40',['dist',['../structmanobra.html#a769d0cfbf690b11ceb7811a8b179fad2',1,'manobra::dist()'],['../structvisitacao.html#a02511803d33c564823b83da273e2a13e',1,'visitacao::dist()']]],
+  ['distancia_5fminima_41',['distancia_minima',['../classMissionSolver.html#ae907dac8efc051f1f3344a7984c88e6e',1,'MissionSolver']]],
+  ['distancia_5ftotal_42',['distancia_total',['../trajetorias_8cpp.html#a8d85a1d119355f8d77d3d20d60cc7f20',1,'distancia_total(int ordem, double delta_d, double raio, int interacao):&#160;trajetorias.cpp'],['../trajetorias_8h.html#a5b85464ee4639038a89ff72068a63518',1,'distancia_total(int ordem, double delta, double raio, int interacao):&#160;trajetorias.cpp']]],
+  ['distancia_5ftotal_5fprimeira_5faeronave_43',['distancia_total_primeira_aeronave',['../trajetorias_8cpp.html#a4f206294e775985420f5973977164d81',1,'distancia_total_primeira_aeronave(double delta_d, double raio):&#160;trajetorias.cpp'],['../trajetorias_8h.html#abe3314808629c58f7aad0d5f88d45d17',1,'distancia_total_primeira_aeronave(double delta, double raio):&#160;trajetorias.cpp']]],
+  ['distancia_5ftotal_5fultima_5faeronave_44',['distancia_total_ultima_aeronave',['../trajetorias_8cpp.html#a4fcf088fb338bdaae15acf2566f3714e',1,'distancia_total_ultima_aeronave(double delta_d, double raio):&#160;trajetorias.cpp'],['../trajetorias_8h.html#a35025b9ed602c43376847236e1725d42',1,'distancia_total_ultima_aeronave(double delta, double raio):&#160;trajetorias.cpp']]],
+  ['dsd_45',['dsd',['../trajetorias_8cpp.html#a0115cc43188234bedef4ead18f3a6d9b',1,'trajetorias.cpp']]],
+  ['dse_46',['dse',['../trajetorias_8cpp.html#a943ee09c9af4f51c5291807dd376e6b6',1,'trajetorias.cpp']]],
+  ['duracao_47',['duracao',['../classMissionLatitudinal.html#ae29b5c981568ffd86eab269ca5f9c7c1',1,'MissionLatitudinal']]]
+];

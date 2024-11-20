@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['ca1_10',['ca1',['../trajetorias_8cpp.html#a34fc91ee2cff8d4ca7cdceddeb237ba7',1,'trajetorias.cpp']]],
+  ['ca2_11',['ca2',['../trajetorias_8cpp.html#ad6850a4cea07575e3c2136265ab39504',1,'trajetorias.cpp']]],
+  ['calc_5fnovo_5fponto_5freta_12',['calc_novo_ponto_reta',['../trajetorias_8cpp.html#abecc26b783a82295b403996e30e98720',1,'trajetorias.cpp']]],
+  ['calcula_5favanco_5flongitudinal_13',['calcula_avanco_longitudinal',['../trajetorias_8h.html#a86c68a1e8e7b9285206f83a81902f9a5',1,'calcula_avanco_longitudinal(int ordem, double delta, int changes):&#160;trajetorias.cpp'],['../trajetorias_8cpp.html#a00ad72ff7d5cfe5ed18860b32e5022d1',1,'calcula_avanco_longitudinal(int ordem, double delta_y, int changes):&#160;trajetorias.cpp']]],
+  ['calcula_5favanco_5fpos_5flongitudinal_14',['calcula_avanco_pos_longitudinal',['../trajetorias_8h.html#aec695d60c511db68c83343798ddc4c5d',1,'calcula_avanco_pos_longitudinal(int ordem, double delta, int changes):&#160;trajetorias.cpp'],['../trajetorias_8cpp.html#a5b0473277e2de3868e0f8661566a575d',1,'calcula_avanco_pos_longitudinal(int ordem, double delta_y, int changes):&#160;trajetorias.cpp']]],
+  ['calcula_5favanco_5fregulador_15',['calcula_avanco_regulador',['../trajetorias_8h.html#abbc05fafd077cc49002261b5215c0175',1,'calcula_avanco_regulador(int ordem, T delta_y, int interacao):&#160;trajetorias.cpp'],['../trajetorias_8cpp.html#abbc05fafd077cc49002261b5215c0175',1,'calcula_avanco_regulador(int ordem, T delta_y, int interacao):&#160;trajetorias.cpp']]],
+  ['calcula_5favanco_5fregulador_5fflotla_16',['calcula_avanco_regulador_flotla',['../trajetorias_8cpp.html#a8625ba20b028088a92a1aa39785465d8',1,'calcula_avanco_regulador_flotla(int ordem, double delta_y, double raio, int interacao):&#160;trajetorias.cpp'],['../trajetorias_8h.html#a8625ba20b028088a92a1aa39785465d8',1,'calcula_avanco_regulador_flotla(int ordem, double delta_y, double raio, int interacao):&#160;trajetorias.cpp']]],
+  ['calcula_5fdirecao_17',['calcula_direcao',['../trajetorias_8cpp.html#abc8869dc3637f4ec4a3223271923b17d',1,'calcula_direcao(int ordem, int n, int interacao):&#160;trajetorias.cpp'],['../trajetorias_8h.html#abc8869dc3637f4ec4a3223271923b17d',1,'calcula_direcao(int ordem, int n, int interacao):&#160;trajetorias.cpp']]],
+  ['calcula_5flado_5faeornave_18',['calcula_lado_aeornave',['../trajetorias_8cpp.html#a8a34ef84d6b55ef0cb067387f3154005',1,'calcula_lado_aeornave(int ordem, int n_aero, int interacao):&#160;trajetorias.cpp'],['../trajetorias_8h.html#a8a34ef84d6b55ef0cb067387f3154005',1,'calcula_lado_aeornave(int ordem, int n_aero, int interacao):&#160;trajetorias.cpp']]],
+  ['calcula_5fvelocidade_19',['calcula_velocidade',['../classMissionLatitudinal.html#ad6f2e223868956fb13e422ff90829a83',1,'MissionLatitudinal']]],
+  ['calcula_5fvelocidade_5fentrada_5fcircular_20',['calcula_velocidade_entrada_circular',['../classMissionCircular.html#aba616d1c297af7974c584fa38cbe063c',1,'MissionCircular']]],
+  ['calcula_5fvelocidade_5fsaida_5fcircular_21',['calcula_velocidade_saida_circular',['../classMissionCircular.html#a4a1cb1211b538f0b6131fe09bb7012ff',1,'MissionCircular']]],
+  ['changes_22',['changes',['../classMissionSolver.html#a2ee78769876ca24064d0ebf02d063b6e',1,'MissionSolver']]],
+  ['circular_23',['CIRCULAR',['../trajetorias_8h.html#a1b724135fe20e5201c917881c6b4deeca95bcc5e37521c9c82a4c32e2918fdaa1',1,'trajetorias.h']]],
+  ['connect_5ftwo_5fpoints_24',['connect_two_points',['../classMissionSolver.html#ad5285281a16d31787163a475c0cbd09a',1,'MissionSolver']]],
+  ['copy_25',['copy',['../classMissionLongitudinal.html#a8758732fe30d455af610c10adec8d0de',1,'MissionLongitudinal::copy()'],['../classMissionCircular.html#a6b6ae50cc34f08fea876cded21332636',1,'MissionCircular::copy()'],['../classMissionLatitudinal.html#aeea1df0600f79cd413e93b51f7c09653',1,'MissionLatitudinal::copy()'],['../classMission.html#aac002ed17110e1ce51bbfdccc5d1287e',1,'Mission::copy()']]]
+];
